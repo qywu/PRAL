@@ -1,6 +1,6 @@
 # PRAL
 
-Code for the paper: A Tailored Pre-Training Model for Task-Oriented Dialog Generation
+Code for the paper: [A Tailored Pre-Training Model for Task-Oriented Dialog Generation](https://arxiv.org/abs/2004.13835)
 
 ## Pretrain Dataset
 
